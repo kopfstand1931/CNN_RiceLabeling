@@ -1,0 +1,449 @@
+<<< Learning Rate : 0.003874444299582001 >>>
+=== epoch:1, current train loss:1.4035775230181429, train acc:0.30466666666666664, test acc:0.2886666666666667 ===
+=== epoch:2, current train loss:0.36057509379360625, train acc:0.902, test acc:0.8923333333333333 ===
+=== epoch:3, current train loss:0.18573116453519595, train acc:0.9283333333333333, test acc:0.929 ===
+=== epoch:4, current train loss:0.18212520537501609, train acc:0.9523333333333334, test acc:0.9433333333333334 ===
+=== epoch:5, current train loss:0.29527309720071065, train acc:0.9583333333333334, test acc:0.951 ===
+=============== Final Test Accuracy ===============
+test acc:0.966
+
+<<< Learning Rate : 6.831689207192576e-05 >>>
+=== epoch:1, current train loss:1.8478328519379292, train acc:0.187, test acc:0.178 ===
+=== epoch:2, current train loss:1.65780446630673, train acc:0.26366666666666666, test acc:0.2773333333333333 ===
+=== epoch:3, current train loss:1.4566266483538626, train acc:0.356, test acc:0.351 ===
+=== epoch:4, current train loss:1.229309452707988, train acc:0.44866666666666666, test acc:0.4236666666666667 ===
+=== epoch:5, current train loss:1.113270758800028, train acc:0.5146666666666667, test acc:0.5223333333333333 ===
+=============== Final Test Accuracy ===============
+test acc:0.571
+
+<<< Learning Rate : 4.855545691472378e-06 >>>
+=== epoch:1, current train loss:2.0042037803753034, train acc:0.19433333333333333, test acc:0.19533333333333333 ===
+=== epoch:2, current train loss:1.888013309818492, train acc:0.202, test acc:0.20766666666666667 ===
+=== epoch:3, current train loss:1.8794863373268016, train acc:0.221, test acc:0.22466666666666665 ===
+=== epoch:4, current train loss:1.969047800957378, train acc:0.22866666666666666, test acc:0.22933333333333333 ===
+=== epoch:5, current train loss:1.7737560603868696, train acc:0.23733333333333334, test acc:0.24733333333333332 ===
+=============== Final Test Accuracy ===============
+test acc:0.261
+
+<<< Learning Rate : 1.420654542381627e-05 >>>
+=== epoch:1, current train loss:1.6711642874744381, train acc:0.20666666666666667, test acc:0.22366666666666668 ===
+=== epoch:2, current train loss:1.7069219210649356, train acc:0.23966666666666667, test acc:0.23933333333333334 ===
+=== epoch:3, current train loss:1.534914934648832, train acc:0.25033333333333335, test acc:0.25966666666666666 ===
+=== epoch:4, current train loss:1.5559508701667977, train acc:0.2683333333333333, test acc:0.2876666666666667 ===
+=== epoch:5, current train loss:1.5417780822811067, train acc:0.31266666666666665, test acc:0.319 ===
+=============== Final Test Accuracy ===============
+test acc:0.327
+
+<<< Learning Rate : 2.9939314474312113e-05 >>>
+=== epoch:1, current train loss:2.1262178939304017, train acc:0.19233333333333333, test acc:0.20466666666666666 ===
+=== epoch:2, current train loss:1.8470077488364993, train acc:0.24833333333333332, test acc:0.25766666666666665 ===
+=== epoch:3, current train loss:1.6444028719887043, train acc:0.30733333333333335, test acc:0.31666666666666665 ===
+=== epoch:4, current train loss:1.5466159187512054, train acc:0.34833333333333333, test acc:0.35533333333333333 ===
+=== epoch:5, current train loss:1.3686888560113235, train acc:0.38566666666666666, test acc:0.39666666666666667 ===
+=============== Final Test Accuracy ===============
+test acc:0.42933333333333334
+
+<<< Learning Rate : 4.899588969649712e-06 >>>
+=== epoch:1, current train loss:2.026625077752263, train acc:0.24433333333333335, test acc:0.24333333333333335 ===
+=== epoch:2, current train loss:2.0275378196758265, train acc:0.241, test acc:0.24733333333333332 ===
+=== epoch:3, current train loss:1.9114401945601913, train acc:0.25266666666666665, test acc:0.24733333333333332 ===
+=== epoch:4, current train loss:2.0342361658908623, train acc:0.2643333333333333, test acc:0.2703333333333333 ===
+=== epoch:5, current train loss:1.836261843853802, train acc:0.2753333333333333, test acc:0.27066666666666667 ===
+=============== Final Test Accuracy ===============
+test acc:0.281
+
+<<< Learning Rate : 0.0004650325550482378 >>>
+=== epoch:1, current train loss:1.7186680845967282, train acc:0.15833333333333333, test acc:0.16566666666666666 ===
+=== epoch:2, current train loss:0.8541734224988293, train acc:0.682, test acc:0.6786666666666666 ===
+=== epoch:3, current train loss:0.6332496796644825, train acc:0.8186666666666667, test acc:0.8243333333333334 ===
+=== epoch:4, current train loss:0.4652688303244919, train acc:0.869, test acc:0.873 ===
+=== epoch:5, current train loss:0.3497909968591096, train acc:0.909, test acc:0.9063333333333333 ===
+=============== Final Test Accuracy ===============
+test acc:0.9183333333333333
+
+<<< Learning Rate : 1.9912746710733637e-06 >>>
+=== epoch:1, current train loss:1.8904358624091426, train acc:0.19466666666666665, test acc:0.18766666666666668 ===
+=== epoch:2, current train loss:1.7226798804993524, train acc:0.20633333333333334, test acc:0.21 ===
+=== epoch:3, current train loss:1.9122222367339772, train acc:0.20766666666666667, test acc:0.20533333333333334 ===
+=== epoch:4, current train loss:1.923252094019186, train acc:0.209, test acc:0.20666666666666667 ===
+=== epoch:5, current train loss:1.8585743903482563, train acc:0.19966666666666666, test acc:0.227 ===
+=============== Final Test Accuracy ===============
+test acc:0.21333333333333335
+
+<<< Learning Rate : 1.0826701686035525e-06 >>>
+=== epoch:1, current train loss:1.660602583732122, train acc:0.208, test acc:0.203 ===
+=== epoch:2, current train loss:1.6403127536871347, train acc:0.216, test acc:0.212 ===
+=== epoch:3, current train loss:1.6725498628585134, train acc:0.21333333333333335, test acc:0.22833333333333333 ===
+=== epoch:4, current train loss:1.7951026429773045, train acc:0.22233333333333333, test acc:0.211 ===
+=== epoch:5, current train loss:1.589440617893459, train acc:0.22233333333333333, test acc:0.22266666666666668 ===
+=============== Final Test Accuracy ===============
+test acc:0.222
+
+<<< Learning Rate : 2.7829591492380422e-05 >>>
+=== epoch:1, current train loss:2.1504003102575933, train acc:0.16966666666666666, test acc:0.15333333333333332 ===
+=== epoch:2, current train loss:1.959176273448186, train acc:0.21733333333333332, test acc:0.21933333333333332 ===
+=== epoch:3, current train loss:1.8822635001914414, train acc:0.24666666666666667, test acc:0.26566666666666666 ===
+=== epoch:4, current train loss:1.8223992305518997, train acc:0.2836666666666667, test acc:0.294 ===
+=== epoch:5, current train loss:1.5595784313050165, train acc:0.312, test acc:0.31533333333333335 ===
+=============== Final Test Accuracy ===============
+test acc:0.35133333333333333
+
+<<< Learning Rate : 0.0009292819339098378 >>>
+=== epoch:1, current train loss:1.6139942480051903, train acc:0.21966666666666668, test acc:0.22466666666666665 ===
+=== epoch:2, current train loss:0.6589466305546557, train acc:0.8246666666666667, test acc:0.8116666666666666 ===
+=== epoch:3, current train loss:0.3563900385167333, train acc:0.8983333333333333, test acc:0.9006666666666666 ===
+=== epoch:4, current train loss:0.2262712883263203, train acc:0.937, test acc:0.931 ===
+=== epoch:5, current train loss:0.24729162498883242, train acc:0.9543333333333334, test acc:0.946 ===
+=============== Final Test Accuracy ===============
+test acc:0.9576666666666667
+
+<<< Learning Rate : 0.005330963397616085 >>>
+=== epoch:1, current train loss:1.267109353197467, train acc:0.39, test acc:0.406 ===
+=== epoch:2, current train loss:0.22574132311382417, train acc:0.875, test acc:0.8846666666666667 ===
+=== epoch:3, current train loss:0.09895102856196322, train acc:0.932, test acc:0.931 ===
+=== epoch:4, current train loss:0.08073416731027078, train acc:0.9663333333333334, test acc:0.958 ===
+=== epoch:5, current train loss:0.06772204944460994, train acc:0.9773333333333334, test acc:0.971 ===
+=============== Final Test Accuracy ===============
+test acc:0.9703333333333334
+
+<<< Learning Rate : 0.0025837323830029697 >>>
+=== epoch:1, current train loss:1.5851319111510418, train acc:0.306, test acc:0.30866666666666664 ===
+=== epoch:2, current train loss:0.3391949932272935, train acc:0.865, test acc:0.8746666666666667 ===
+=== epoch:3, current train loss:0.1966988984848216, train acc:0.917, test acc:0.9113333333333333 ===
+=== epoch:4, current train loss:0.1718336856518108, train acc:0.949, test acc:0.9346666666666666 ===
+=== epoch:5, current train loss:0.08594787018665066, train acc:0.96, test acc:0.9586666666666667 ===
+=============== Final Test Accuracy ===============
+test acc:0.9586666666666667
+
+<<< Learning Rate : 7.13313954280733e-05 >>>
+=== epoch:1, current train loss:1.7498414598138807, train acc:0.21266666666666667, test acc:0.21066666666666667 ===
+=== epoch:2, current train loss:1.4190657312808626, train acc:0.318, test acc:0.3303333333333333 ===
+=== epoch:3, current train loss:1.2786446809509382, train acc:0.43166666666666664, test acc:0.418 ===
+=== epoch:4, current train loss:1.139137453763656, train acc:0.5213333333333333, test acc:0.501 ===
+=== epoch:5, current train loss:1.0856389929170027, train acc:0.582, test acc:0.5583333333333333 ===
+=============== Final Test Accuracy ===============
+test acc:0.6196666666666667
+
+<<< Learning Rate : 0.00021512763915146555 >>>
+=== epoch:1, current train loss:1.8109572020644424, train acc:0.23066666666666666, test acc:0.20166666666666666 ===
+=== epoch:2, current train loss:1.1332642183279351, train acc:0.5516666666666666, test acc:0.56 ===
+=== epoch:3, current train loss:0.8551438562260764, train acc:0.7063333333333334, test acc:0.7086666666666667 ===
+=== epoch:4, current train loss:0.7451588907457307, train acc:0.82, test acc:0.8123333333333334 ===
+=== epoch:5, current train loss:0.5876054022321452, train acc:0.8703333333333333, test acc:0.8743333333333333 ===
+=============== Final Test Accuracy ===============
+test acc:0.8986666666666666
+
+<<< Learning Rate : 4.473034939473823e-06 >>>
+=== epoch:1, current train loss:2.1556680522211185, train acc:0.19466666666666665, test acc:0.18933333333333333 ===
+=== epoch:2, current train loss:2.0293346554990266, train acc:0.21166666666666667, test acc:0.199 ===
+=== epoch:3, current train loss:2.039782322990166, train acc:0.221, test acc:0.21733333333333332 ===
+=== epoch:4, current train loss:1.9035293240735462, train acc:0.22033333333333333, test acc:0.21766666666666667 ===
+=== epoch:5, current train loss:1.8858747241031681, train acc:0.22266666666666668, test acc:0.21533333333333332 ===
+=============== Final Test Accuracy ===============
+test acc:0.22733333333333333
+
+<<< Learning Rate : 0.00011038557974907772 >>>
+=== epoch:1, current train loss:1.9242806954170848, train acc:0.218, test acc:0.20966666666666667 ===
+=== epoch:2, current train loss:1.4794582633569962, train acc:0.3476666666666667, test acc:0.3403333333333333 ===
+=== epoch:3, current train loss:1.1178217125917194, train acc:0.5243333333333333, test acc:0.5016666666666667 ===
+=== epoch:4, current train loss:0.9972948292075623, train acc:0.6423333333333333, test acc:0.6256666666666667 ===
+=== epoch:5, current train loss:0.886196106303299, train acc:0.713, test acc:0.713 ===
+=============== Final Test Accuracy ===============
+test acc:0.758
+
+<<< Learning Rate : 2.9499878466586353e-06 >>>
+=== epoch:1, current train loss:1.8417940530517254, train acc:0.192, test acc:0.19833333333333333 ===
+=== epoch:2, current train loss:1.8940141897019374, train acc:0.202, test acc:0.202 ===
+=== epoch:3, current train loss:1.8637359140048333, train acc:0.18766666666666668, test acc:0.21033333333333334 ===
+=== epoch:4, current train loss:1.842115449210968, train acc:0.20933333333333334, test acc:0.21133333333333335 ===
+=== epoch:5, current train loss:1.9502011755457482, train acc:0.22, test acc:0.22133333333333333 ===
+=============== Final Test Accuracy ===============
+test acc:0.21833333333333332
+
+<<< Learning Rate : 8.9326628908134e-05 >>>
+=== epoch:1, current train loss:1.848739804383941, train acc:0.20733333333333334, test acc:0.21633333333333332 ===
+=== epoch:2, current train loss:1.454201558394251, train acc:0.365, test acc:0.368 ===
+=== epoch:3, current train loss:1.29000725877947, train acc:0.491, test acc:0.49866666666666665 ===
+=== epoch:4, current train loss:1.0766020694155483, train acc:0.6093333333333333, test acc:0.6216666666666667 ===
+=== epoch:5, current train loss:0.9452853756914279, train acc:0.6956666666666667, test acc:0.7013333333333334 ===
+=============== Final Test Accuracy ===============
+test acc:0.7626666666666667
+
+<<< Learning Rate : 0.0089469825823409 >>>
+=== epoch:1, current train loss:1.4225269514432757, train acc:0.371, test acc:0.365 ===
+=== epoch:2, current train loss:0.1885650099966938, train acc:0.9476666666666667, test acc:0.9406666666666667 ===
+=== epoch:3, current train loss:0.09701696597640871, train acc:0.9613333333333334, test acc:0.956 ===
+=== epoch:4, current train loss:0.028703033195158927, train acc:0.971, test acc:0.965 ===
+=== epoch:5, current train loss:0.016365908692802408, train acc:0.9803333333333333, test acc:0.9813333333333333 ===
+=============== Final Test Accuracy ===============
+test acc:0.9793333333333333
+
+<<< Learning Rate : 0.00022880584483116282 >>>
+=== epoch:1, current train loss:1.8795806801021486, train acc:0.14433333333333334, test acc:0.13033333333333333 ===
+=== epoch:2, current train loss:1.1312222967149084, train acc:0.47433333333333333, test acc:0.48 ===
+=== epoch:3, current train loss:0.9991931079317462, train acc:0.6496666666666666, test acc:0.6473333333333333 ===
+=== epoch:4, current train loss:0.7982824211583641, train acc:0.7466666666666667, test acc:0.76 ===
+=== epoch:5, current train loss:0.6617373357011546, train acc:0.815, test acc:0.816 ===
+=============== Final Test Accuracy ===============
+test acc:0.8496666666666667
+
+<<< Learning Rate : 7.631710203332323e-06 >>>
+=== epoch:1, current train loss:2.0101846603231426, train acc:0.16766666666666666, test acc:0.15633333333333332 ===
+=== epoch:2, current train loss:1.8862340516726326, train acc:0.185, test acc:0.17666666666666667 ===
+=== epoch:3, current train loss:1.8849409370710994, train acc:0.19266666666666668, test acc:0.17266666666666666 ===
+=== epoch:4, current train loss:1.7293492705170876, train acc:0.20533333333333334, test acc:0.186 ===
+=== epoch:5, current train loss:1.7945429837519595, train acc:0.225, test acc:0.20366666666666666 ===
+=============== Final Test Accuracy ===============
+test acc:0.214
+
+<<< Learning Rate : 2.784505102985192e-06 >>>
+=== epoch:1, current train loss:2.199255113433592, train acc:0.19266666666666668, test acc:0.20666666666666667 ===
+=== epoch:2, current train loss:2.1696201070397665, train acc:0.202, test acc:0.204 ===
+=== epoch:3, current train loss:2.3310972269265644, train acc:0.20166666666666666, test acc:0.22866666666666666 ===
+=== epoch:4, current train loss:2.120450399402634, train acc:0.21666666666666667, test acc:0.22066666666666668 ===
+=== epoch:5, current train loss:2.3304708102358176, train acc:0.22566666666666665, test acc:0.237 ===
+=============== Final Test Accuracy ===============
+test acc:0.251
+
+<<< Learning Rate : 5.6465883931083265e-05 >>>
+=== epoch:1, current train loss:1.996399920081697, train acc:0.18566666666666667, test acc:0.18933333333333333 ===
+=== epoch:2, current train loss:1.636754751021399, train acc:0.2926666666666667, test acc:0.297 ===
+=== epoch:3, current train loss:1.5745305652427979, train acc:0.369, test acc:0.37933333333333336 ===
+=== epoch:4, current train loss:1.349129654891511, train acc:0.451, test acc:0.44133333333333336 ===
+=== epoch:5, current train loss:1.1704074943225324, train acc:0.514, test acc:0.5 ===
+=============== Final Test Accuracy ===============
+test acc:0.54
+
+<<< Learning Rate : 0.00015773990202666883 >>>
+=== epoch:1, current train loss:1.9375290842988824, train acc:0.142, test acc:0.12566666666666668 ===
+=== epoch:2, current train loss:1.3082493991435902, train acc:0.38466666666666666, test acc:0.36933333333333335 ===
+=== epoch:3, current train loss:1.2401556091348132, train acc:0.567, test acc:0.5536666666666666 ===
+=== epoch:4, current train loss:1.0274459869822097, train acc:0.691, test acc:0.642 ===
+=== epoch:5, current train loss:0.8913105409436513, train acc:0.749, test acc:0.7386666666666667 ===
+=============== Final Test Accuracy ===============
+test acc:0.774
+
+<<< Learning Rate : 0.0010164272930032385 >>>
+=== epoch:1, current train loss:1.5401214589466292, train acc:0.31366666666666665, test acc:0.296 ===
+=== epoch:2, current train loss:0.5276501901508179, train acc:0.827, test acc:0.8246666666666667 ===
+=== epoch:3, current train loss:0.399295176298889, train acc:0.8963333333333333, test acc:0.907 ===
+=== epoch:4, current train loss:0.32461092256231217, train acc:0.954, test acc:0.9436666666666667 ===
+=== epoch:5, current train loss:0.13806673015413573, train acc:0.96, test acc:0.959 ===
+=============== Final Test Accuracy ===============
+test acc:0.964
+
+<<< Learning Rate : 0.0027688755071028455 >>>
+=== epoch:1, current train loss:1.5927377156130107, train acc:0.3576666666666667, test acc:0.35133333333333333 ===
+=== epoch:2, current train loss:0.35128518628940014, train acc:0.8883333333333333, test acc:0.8853333333333333 ===
+=== epoch:3, current train loss:0.2623532459391442, train acc:0.932, test acc:0.924 ===
+=== epoch:4, current train loss:0.11258461897663566, train acc:0.9416666666666667, test acc:0.9406666666666667 ===
+=== epoch:5, current train loss:0.14188557576456773, train acc:0.962, test acc:0.9646666666666667 ===
+=============== Final Test Accuracy ===============
+test acc:0.968
+
+<<< Learning Rate : 3.452824840182561e-05 >>>
+=== epoch:1, current train loss:1.89481095577036, train acc:0.17366666666666666, test acc:0.18266666666666667 ===
+=== epoch:2, current train loss:1.6522025797212825, train acc:0.2866666666666667, test acc:0.3 ===
+=== epoch:3, current train loss:1.6078836518519137, train acc:0.342, test acc:0.35033333333333333 ===
+=== epoch:4, current train loss:1.5256602493765212, train acc:0.39866666666666667, test acc:0.4066666666666667 ===
+=== epoch:5, current train loss:1.3044761961960192, train acc:0.44133333333333336, test acc:0.461 ===
+=============== Final Test Accuracy ===============
+test acc:0.497
+
+<<< Learning Rate : 0.00010942606000274207 >>>
+=== epoch:1, current train loss:2.0659660970524416, train acc:0.228, test acc:0.21033333333333334 ===
+=== epoch:2, current train loss:1.6368249806352038, train acc:0.38433333333333336, test acc:0.38766666666666666 ===
+=== epoch:3, current train loss:1.238540443046336, train acc:0.5136666666666667, test acc:0.4826666666666667 ===
+=== epoch:4, current train loss:1.0324874449432657, train acc:0.5776666666666667, test acc:0.5796666666666667 ===
+=== epoch:5, current train loss:1.0169883840775762, train acc:0.655, test acc:0.6553333333333333 ===
+=============== Final Test Accuracy ===============
+test acc:0.7013333333333334
+
+<<< Learning Rate : 2.5596291552828992e-05 >>>
+=== epoch:1, current train loss:2.3940479280005293, train acc:0.18966666666666668, test acc:0.20033333333333334 ===
+=== epoch:2, current train loss:2.226657515776022, train acc:0.23133333333333334, test acc:0.25 ===
+=== epoch:3, current train loss:2.0058370870378015, train acc:0.2663333333333333, test acc:0.2653333333333333 ===
+=== epoch:4, current train loss:1.9717078813419224, train acc:0.29033333333333333, test acc:0.31133333333333335 ===
+=== epoch:5, current train loss:1.850585215445732, train acc:0.327, test acc:0.3293333333333333 ===
+=============== Final Test Accuracy ===============
+test acc:0.35233333333333333
+
+<<< Learning Rate : 0.0014539530633500958 >>>
+=== epoch:1, current train loss:1.7935089939443625, train acc:0.201, test acc:0.19966666666666666 ===
+=== epoch:2, current train loss:0.5871071495665002, train acc:0.8456666666666667, test acc:0.836 ===
+=== epoch:3, current train loss:0.24227189724043555, train acc:0.918, test acc:0.916 ===
+=== epoch:4, current train loss:0.1605218414917045, train acc:0.9426666666666667, test acc:0.9433333333333334 ===
+=== epoch:5, current train loss:0.07309339392978256, train acc:0.9603333333333334, test acc:0.958 ===
+=============== Final Test Accuracy ===============
+test acc:0.9636666666666667
+
+<<< Learning Rate : 9.566504511746597e-06 >>>
+=== epoch:1, current train loss:1.9039823692568172, train acc:0.232, test acc:0.23566666666666666 ===
+=== epoch:2, current train loss:1.7442608978257708, train acc:0.25166666666666665, test acc:0.24966666666666668 ===
+=== epoch:3, current train loss:1.9570500318429143, train acc:0.2623333333333333, test acc:0.24533333333333332 ===
+=== epoch:4, current train loss:1.916335177027172, train acc:0.25466666666666665, test acc:0.25733333333333336 ===
+=== epoch:5, current train loss:1.8037924685478075, train acc:0.25933333333333336, test acc:0.25066666666666665 ===
+=============== Final Test Accuracy ===============
+test acc:0.2623333333333333
+
+<<< Learning Rate : 2.9922352297529913e-05 >>>
+=== epoch:1, current train loss:1.8315998009809533, train acc:0.178, test acc:0.19666666666666666 ===
+=== epoch:2, current train loss:1.752848561394184, train acc:0.25, test acc:0.25466666666666665 ===
+=== epoch:3, current train loss:1.5189319153420022, train acc:0.31033333333333335, test acc:0.311 ===
+=== epoch:4, current train loss:1.3412652736783133, train acc:0.386, test acc:0.388 ===
+=== epoch:5, current train loss:1.4295231570735603, train acc:0.426, test acc:0.4543333333333333 ===
+=============== Final Test Accuracy ===============
+test acc:0.476
+
+<<< Learning Rate : 6.038832230069812e-05 >>>
+=== epoch:1, current train loss:1.9950697315169643, train acc:0.22533333333333333, test acc:0.22433333333333333 ===
+=== epoch:2, current train loss:1.6000684616439482, train acc:0.2813333333333333, test acc:0.29133333333333333 ===
+=== epoch:3, current train loss:1.3295444183966063, train acc:0.344, test acc:0.344 ===
+=== epoch:4, current train loss:1.2562181445532434, train acc:0.44133333333333336, test acc:0.446 ===
+=== epoch:5, current train loss:1.0417904110390193, train acc:0.5446666666666666, test acc:0.5416666666666666 ===
+=============== Final Test Accuracy ===============
+test acc:0.6246666666666667
+
+<<< Learning Rate : 1.5169856366345073e-06 >>>
+=== epoch:1, current train loss:1.8781279493331717, train acc:0.21233333333333335, test acc:0.20366666666666666 ===
+=== epoch:2, current train loss:1.8806987529394212, train acc:0.20766666666666667, test acc:0.21133333333333335 ===
+=== epoch:3, current train loss:1.968707385827077, train acc:0.21266666666666667, test acc:0.21266666666666667 ===
+=== epoch:4, current train loss:2.0106607582904257, train acc:0.214, test acc:0.21233333333333335 ===
+=== epoch:5, current train loss:1.7691259456732698, train acc:0.20733333333333334, test acc:0.21766666666666667 ===
+=============== Final Test Accuracy ===============
+test acc:0.22933333333333333
+
+<<< Learning Rate : 0.002533148518308407 >>>
+=== epoch:1, current train loss:1.546809469757366, train acc:0.24233333333333335, test acc:0.25 ===
+=== epoch:2, current train loss:0.39900764674618094, train acc:0.8873333333333333, test acc:0.883 ===
+=== epoch:3, current train loss:0.2231714114719415, train acc:0.9313333333333333, test acc:0.924 ===
+=== epoch:4, current train loss:0.1978083892180608, train acc:0.9433333333333334, test acc:0.9436666666666667 ===
+=== epoch:5, current train loss:0.09073142603169684, train acc:0.968, test acc:0.955 ===
+=============== Final Test Accuracy ===============
+test acc:0.9626666666666667
+
+<<< Learning Rate : 0.0004057679144462578 >>>
+=== epoch:1, current train loss:1.6345375152106445, train acc:0.25033333333333335, test acc:0.24733333333333332 ===
+=== epoch:2, current train loss:0.954723922588597, train acc:0.6166666666666667, test acc:0.5883333333333334 ===
+=== epoch:3, current train loss:0.7022383844924931, train acc:0.8183333333333334, test acc:0.8056666666666666 ===
+=== epoch:4, current train loss:0.5613746410046503, train acc:0.8956666666666667, test acc:0.902 ===
+=== epoch:5, current train loss:0.426371946117341, train acc:0.923, test acc:0.9183333333333333 ===
+=============== Final Test Accuracy ===============
+test acc:0.9453333333333334
+
+<<< Learning Rate : 8.14505270745752e-05 >>>
+=== epoch:1, current train loss:2.4243772079819004, train acc:0.14, test acc:0.14533333333333334 ===
+=== epoch:2, current train loss:1.819375663757059, train acc:0.297, test acc:0.30133333333333334 ===
+=== epoch:3, current train loss:1.3482519721582422, train acc:0.4056666666666667, test acc:0.41433333333333333 ===
+=== epoch:4, current train loss:1.1299242750380096, train acc:0.49633333333333335, test acc:0.5056666666666667 ===
+=== epoch:5, current train loss:0.9119209482514785, train acc:0.5833333333333334, test acc:0.587 ===
+=============== Final Test Accuracy ===============
+test acc:0.6346666666666667
+
+<<< Learning Rate : 0.004384018313033263 >>>
+=== epoch:1, current train loss:1.3442019206589801, train acc:0.44366666666666665, test acc:0.44966666666666666 ===
+=== epoch:2, current train loss:0.22402665131738375, train acc:0.9113333333333333, test acc:0.91 ===
+=== epoch:3, current train loss:0.1454420697619177, train acc:0.949, test acc:0.9486666666666667 ===
+=== epoch:4, current train loss:0.06635444299564192, train acc:0.9683333333333334, test acc:0.9566666666666667 ===
+=== epoch:5, current train loss:0.10215990548148308, train acc:0.9656666666666667, test acc:0.965 ===
+=============== Final Test Accuracy ===============
+test acc:0.9753333333333334
+
+<<< Learning Rate : 3.0037888746821343e-06 >>>
+=== epoch:1, current train loss:1.9319143875590137, train acc:0.173, test acc:0.17366666666666666 ===
+=== epoch:2, current train loss:1.9345594235320371, train acc:0.166, test acc:0.17333333333333334 ===
+=== epoch:3, current train loss:1.9018476719024255, train acc:0.179, test acc:0.18066666666666667 ===
+=== epoch:4, current train loss:1.8409853739409454, train acc:0.18833333333333332, test acc:0.19333333333333333 ===
+=== epoch:5, current train loss:1.846211782674891, train acc:0.19466666666666665, test acc:0.201 ===
+=============== Final Test Accuracy ===============
+test acc:0.21666666666666667
+
+<<< Learning Rate : 0.003446259480647298 >>>
+=== epoch:1, current train loss:1.464011475004498, train acc:0.31733333333333336, test acc:0.29833333333333334 ===
+=== epoch:2, current train loss:0.34004616043608415, train acc:0.8913333333333333, test acc:0.8886666666666667 ===
+=== epoch:3, current train loss:0.1560380571006006, train acc:0.946, test acc:0.9376666666666666 ===
+=== epoch:4, current train loss:0.15133721074429993, train acc:0.9593333333333334, test acc:0.9596666666666667 ===
+=== epoch:5, current train loss:0.045382161299578935, train acc:0.9686666666666667, test acc:0.9653333333333334 ===
+=============== Final Test Accuracy ===============
+test acc:0.972
+
+<<< Learning Rate : 0.004344333523858649 >>>
+=== epoch:1, current train loss:1.4373218250956379, train acc:0.33266666666666667, test acc:0.3353333333333333 ===
+=== epoch:2, current train loss:0.23046557346290458, train acc:0.9233333333333333, test acc:0.9236666666666666 ===
+=== epoch:3, current train loss:0.12357924580908916, train acc:0.9536666666666667, test acc:0.9526666666666667 ===
+=== epoch:4, current train loss:0.09818720662258741, train acc:0.97, test acc:0.9723333333333334 ===
+=== epoch:5, current train loss:0.07301906250672768, train acc:0.9803333333333333, test acc:0.976 ===
+=============== Final Test Accuracy ===============
+test acc:0.9746666666666667
+
+<<< Learning Rate : 4.2729272321244434e-06 >>>
+=== epoch:1, current train loss:2.0130686613745317, train acc:0.173, test acc:0.18 ===
+=== epoch:2, current train loss:1.9150578725580225, train acc:0.18566666666666667, test acc:0.19233333333333333 ===
+=== epoch:3, current train loss:1.8261115355489503, train acc:0.18333333333333332, test acc:0.19766666666666666 ===
+=== epoch:4, current train loss:1.8988780500552735, train acc:0.20733333333333334, test acc:0.21633333333333332 ===
+=== epoch:5, current train loss:1.7375091320058866, train acc:0.218, test acc:0.21433333333333332 ===
+=============== Final Test Accuracy ===============
+test acc:0.232
+
+<<< Learning Rate : 1.5749526650143251e-06 >>>
+=== epoch:1, current train loss:2.073742468087582, train acc:0.18833333333333332, test acc:0.18766666666666668 ===
+=== epoch:2, current train loss:1.9902743699489003, train acc:0.18233333333333332, test acc:0.187 ===
+=== epoch:3, current train loss:1.7489662984406107, train acc:0.18533333333333332, test acc:0.18333333333333332 ===
+=== epoch:4, current train loss:1.7481028971404027, train acc:0.176, test acc:0.194 ===
+=== epoch:5, current train loss:2.01212287010264, train acc:0.18133333333333335, test acc:0.19133333333333333 ===
+=============== Final Test Accuracy ===============
+test acc:0.192
+
+<<< Learning Rate : 1.1932901273984985e-05 >>>
+=== epoch:1, current train loss:2.1551477975455646, train acc:0.17733333333333334, test acc:0.19066666666666668 ===
+=== epoch:2, current train loss:1.9264713419160244, train acc:0.17966666666666667, test acc:0.19166666666666668 ===
+=== epoch:3, current train loss:1.9971029246562102, train acc:0.19966666666666666, test acc:0.21366666666666667 ===
+=== epoch:4, current train loss:2.066802427443112, train acc:0.211, test acc:0.21 ===
+=== epoch:5, current train loss:1.9475468090043713, train acc:0.23966666666666667, test acc:0.23 ===
+=============== Final Test Accuracy ===============
+test acc:0.23133333333333334
+
+<<< Learning Rate : 2.2730830787284218e-06 >>>
+=== epoch:1, current train loss:1.7941913464090602, train acc:0.20833333333333334, test acc:0.20133333333333334 ===
+=== epoch:2, current train loss:1.8237960109798477, train acc:0.22433333333333333, test acc:0.22 ===
+=== epoch:3, current train loss:1.7631227493965413, train acc:0.22533333333333333, test acc:0.22166666666666668 ===
+=== epoch:4, current train loss:1.8622892109095275, train acc:0.226, test acc:0.21866666666666668 ===
+=== epoch:5, current train loss:1.9583909127636208, train acc:0.244, test acc:0.23 ===
+=============== Final Test Accuracy ===============
+test acc:0.252
+
+<<< Learning Rate : 0.00623405249803687 >>>
+=== epoch:1, current train loss:1.414549794234536, train acc:0.33366666666666667, test acc:0.345 ===
+=== epoch:2, current train loss:0.27053931020602995, train acc:0.8983333333333333, test acc:0.893 ===
+=== epoch:3, current train loss:0.20985129098496993, train acc:0.9386666666666666, test acc:0.929 ===
+=== epoch:4, current train loss:0.15256948922189964, train acc:0.949, test acc:0.942 ===
+=== epoch:5, current train loss:0.1905996446187612, train acc:0.9543333333333334, test acc:0.954 ===
+=============== Final Test Accuracy ===============
+test acc:0.954
+
+<<< Learning Rate : 9.369000751495882e-06 >>>
+=== epoch:1, current train loss:1.8895987664940643, train acc:0.20233333333333334, test acc:0.19833333333333333 ===
+=== epoch:2, current train loss:1.9373412845124935, train acc:0.19966666666666666, test acc:0.21566666666666667 ===
+=== epoch:3, current train loss:1.7766210204362318, train acc:0.21333333333333335, test acc:0.21466666666666667 ===
+=== epoch:4, current train loss:1.9236472681239007, train acc:0.219, test acc:0.228 ===
+=== epoch:5, current train loss:1.8278315158315814, train acc:0.23266666666666666, test acc:0.245 ===
+=============== Final Test Accuracy ===============
+test acc:0.24633333333333332
+
+<<< Learning Rate : 0.0008328593951598844 >>>
+=== epoch:1, current train loss:1.7152362722743373, train acc:0.29533333333333334, test acc:0.299 ===
+=== epoch:2, current train loss:0.5886278203944016, train acc:0.7896666666666666, test acc:0.7933333333333333 ===
+=== epoch:3, current train loss:0.3788040236203027, train acc:0.8866666666666667, test acc:0.883 ===
+=== epoch:4, current train loss:0.27697288452855073, train acc:0.9313333333333333, test acc:0.9213333333333333 ===
+=== epoch:5, current train loss:0.24034220745272225, train acc:0.9506666666666667, test acc:0.9416666666666667 ===
+=============== Final Test Accuracy ===============
+test acc:0.9616666666666667
+
+<<< Learning Rate : 9.449035142153213e-05 >>>
+=== epoch:1, current train loss:1.788648578126721, train acc:0.26266666666666666, test acc:0.255 ===
+=== epoch:2, current train loss:1.4497564930201088, train acc:0.395, test acc:0.384 ===
+=== epoch:3, current train loss:1.2034871970979928, train acc:0.5413333333333333, test acc:0.536 ===
+=== epoch:4, current train loss:1.0724269126445345, train acc:0.6656666666666666, test acc:0.6606666666666666 ===
+=== epoch:5, current train loss:0.8710059396620952, train acc:0.7343333333333333, test acc:0.7413333333333333 ===
+=============== Final Test Accuracy ===============
+test acc:0.7903333333333333

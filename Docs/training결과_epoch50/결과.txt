@@ -1,0 +1,54 @@
+=== epoch:1, current train loss:0.11239386564351628, train acc:0.9655555555555555, test acc:0.9646666666666667 ===
+=== epoch:2, current train loss:0.01983911275272851, train acc:0.9758888888888889, test acc:0.9776666666666667 ===
+=== epoch:3, current train loss:0.05178672533001546, train acc:0.9841111111111112, test acc:0.9826666666666667 ===
+=== epoch:4, current train loss:0.08048225419328789, train acc:0.9798888888888889, test acc:0.9803333333333333 ===
+=== epoch:5, current train loss:0.0023428543316463303, train acc:0.9862222222222222, test acc:0.987 ===
+=== epoch:6, current train loss:0.02180308436699468, train acc:0.9882222222222222, test acc:0.9856666666666667 ===
+=== epoch:7, current train loss:0.05069629646120581, train acc:0.9883333333333333, test acc:0.9873333333333333 ===
+=== epoch:8, current train loss:0.00723751322297356, train acc:0.9895555555555555, test acc:0.9876666666666667 ===
+=== epoch:9, current train loss:0.10396243480136017, train acc:0.99, test acc:0.9883333333333333 ===
+=== epoch:10, current train loss:0.04979128563330844, train acc:0.9901111111111112, test acc:0.989 ===
+=== epoch:11, current train loss:0.05202346093996952, train acc:0.989, test acc:0.9873333333333333 ===
+=== epoch:12, current train loss:0.01640294507200375, train acc:0.9908888888888889, test acc:0.9853333333333333 ===
+=== epoch:13, current train loss:0.00737814540988133, train acc:0.9866666666666667, test acc:0.988 ===
+=== epoch:14, current train loss:0.01611878309434486, train acc:0.9898888888888889, test acc:0.988 ===
+=== epoch:15, current train loss:0.0036798620280348465, train acc:0.99, test acc:0.9856666666666667 ===
+=== epoch:16, current train loss:0.05649202336598567, train acc:0.9931111111111111, test acc:0.991 ===
+=== epoch:17, current train loss:0.02570841512374803, train acc:0.9931111111111111, test acc:0.9896666666666667 ===
+=== epoch:18, current train loss:0.004297868498453193, train acc:0.9911111111111112, test acc:0.988 ===
+=== epoch:19, current train loss:0.020358001738335494, train acc:0.9915555555555555, test acc:0.9913333333333333 ===
+=== epoch:20, current train loss:0.0021998305442556955, train acc:0.9941111111111111, test acc:0.9906666666666667 ===
+=== epoch:21, current train loss:0.01608687213080207, train acc:0.9925555555555555, test acc:0.992 ===
+=== epoch:22, current train loss:0.01271254723086898, train acc:0.9911111111111112, test acc:0.989 ===
+=== epoch:23, current train loss:0.0066394078862252745, train acc:0.9938888888888889, test acc:0.9886666666666667 ===
+=== epoch:24, current train loss:0.004051035270894024, train acc:0.9918888888888889, test acc:0.9853333333333333 ===
+=== epoch:25, current train loss:0.0030838212562247624, train acc:0.9924444444444445, test acc:0.9903333333333333 ===
+=== epoch:26, current train loss:0.014456939126101158, train acc:0.9935555555555555, test acc:0.989 ===
+=== epoch:27, current train loss:0.00044017864959569754, train acc:0.9925555555555555, test acc:0.9873333333333333 ===
+=== epoch:28, current train loss:0.015129715584210677, train acc:0.9947777777777778, test acc:0.988 ===
+=== epoch:29, current train loss:0.0061953627852846796, train acc:0.994, test acc:0.9903333333333333 ===
+=== epoch:30, current train loss:0.0022857700710095345, train acc:0.995, test acc:0.9913333333333333 ===
+=== epoch:31, current train loss:0.007306312068949713, train acc:0.993, test acc:0.9913333333333333 ===
+=== epoch:32, current train loss:0.0007556272751421634, train acc:0.9933333333333333, test acc:0.9903333333333333 ===
+=== epoch:33, current train loss:0.007113832732237761, train acc:0.995, test acc:0.99 ===
+=== epoch:34, current train loss:0.0004891846766524299, train acc:0.9937777777777778, test acc:0.9886666666666667 ===
+=== epoch:35, current train loss:0.0014416354728265233, train acc:0.9934444444444445, test acc:0.9903333333333333 ===
+=== epoch:36, current train loss:0.0022727866558985253, train acc:0.9961111111111111, test acc:0.9906666666666667 ===
+=== epoch:37, current train loss:0.00266766248260395, train acc:0.994, test acc:0.99 ===
+=== epoch:38, current train loss:0.0007512881174418277, train acc:0.9937777777777778, test acc:0.9913333333333333 ===
+=== epoch:39, current train loss:0.0016362313476268953, train acc:0.9955555555555555, test acc:0.9893333333333333 ===
+=== epoch:40, current train loss:0.05062404353364677, train acc:0.9964444444444445, test acc:0.99 ===
+=== epoch:41, current train loss:0.004934664989390841, train acc:0.9952222222222222, test acc:0.9876666666666667 ===
+=== epoch:42, current train loss:0.01696167072003687, train acc:0.9956666666666667, test acc:0.989 ===
+=== epoch:43, current train loss:0.0012614778517448819, train acc:0.9961111111111111, test acc:0.9903333333333333 ===
+=== epoch:44, current train loss:0.007229000308150836, train acc:0.9957777777777778, test acc:0.9903333333333333 ===
+=== epoch:45, current train loss:0.003909195048264749, train acc:0.9944444444444445, test acc:0.991 ===
+=== epoch:46, current train loss:0.026064206489663833, train acc:0.9953333333333333, test acc:0.9896666666666667 ===
+=== epoch:47, current train loss:0.04011476681588115, train acc:0.9968888888888889, test acc:0.9913333333333333 ===
+=== epoch:48, current train loss:0.0002631021525881834, train acc:0.9945555555555555, test acc:0.989 ===
+=== epoch:49, current train loss:0.018597494202040713, train acc:0.9953333333333333, test acc:0.9896666666666667 ===
+=== epoch:50, current train loss:0.01441734173897391, train acc:0.9943333333333333, test acc:0.9883333333333333 ===
+=============== Final Test Accuracy ===============
+test acc:0.9866666666666667
+Saved Network Parameters!
+
